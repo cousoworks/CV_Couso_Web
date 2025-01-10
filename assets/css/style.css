@@ -535,8 +535,8 @@ SOCIAL ICON
 
 .navbar-brand img {
     margin-top: -1.5rem;
-    width: 6.5rem; /* Cambia el ancho según tus necesidades */
-    height: 6.5rem; /* Mantiene la proporción de la imagen */
+    width: 6rem; /* Cambia el ancho según tus necesidades */
+    height: 6rem; /* Mantiene la proporción de la imagen */
     
 }
 .navbar-custom {
