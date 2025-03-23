@@ -1,4 +1,3 @@
-
 # 📝 CV Web
 
 Este proyecto consiste en un **currículum vitae interactivo** presentado como una página web. La idea es ofrecer un formato moderno y visualmente atractivo para mostrar mi trayectoria profesional, habilidades y logros en el ámbito de la tecnología.
@@ -28,9 +27,9 @@ Puedes ver el currículum en línea a través de GitHub Pages en el siguiente en
 
 ## 💾 Cómo Ejecutar el Proyecto Localmente
 
-Si deseas ver el proyecto en tu máquina local, puedes seguir estos pasos:
+Si deseas ver el proyecto en tu máquina local, puedes seguir estos pasos: 
 
-1. Clona el repositorio:
+1. Clona el repositorio: 
 
    ```bash
    git clone https://github.com/Blayneraptor/CV_Couso_Web.git
