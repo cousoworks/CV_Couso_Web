@@ -1470,40 +1470,39 @@ Icon for all respective meta
 }
 
 
-/* === Contact Section === */
-.contact-section  {
-  
+.contact-section {
+    text-align: center;
+    padding: 80px 0;
 }
 
 .contact-section strong {
     display: block;
     text-transform: uppercase;
+    margin: 0 auto 20px;
+    font-size: 18px;
 }
+
 .contact-form strong {
     margin-bottom: 40px;
 }
 
-.contact-form textarea.form-control {
-    height: 115px;
+.contact-form {
+    max-width: 650px;
+    margin: 0 auto;
 }
 
-.contact-form .btn {
-    margin-top: 15px;
+/* Centrado del contenedor del formulario */
+.row .col-md-6 .contact-form {
+    margin: 0 auto;
+    float: none;
+    width: 100%;
 }
 
-.contact-section div > i{
-    float: left;
-    font-size: 45px;
-    margin-right: 20px;
+/* Asegurarse de que la columna también esté centrada */
+.row .col-md-6 {
+    float: none;
+    margin: 0 auto;
 }
-.contact-section address,
-.contact-section .contact-number {
-    overflow: hidden;
-    line-height: 30px;
-    font-weight: 400;
-    margin-bottom: 45px
-}
-
 
 /*MAP*/
 .location-map {
